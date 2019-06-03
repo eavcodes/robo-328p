@@ -1,2 +1,2 @@
-# arduino-unoesc
-Layout kit arduino unoesc baseado no 328P DIP
+# robo 328P
+Projeto de placa com atmega 328P para estudo de sensores e robótica
