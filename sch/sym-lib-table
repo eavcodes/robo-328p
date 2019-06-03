@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name arduino-unoesc-rescue)(type Legacy)(uri ${KIPRJMOD}/arduino-unoesc-rescue.lib)(options "")(descr ""))
+)

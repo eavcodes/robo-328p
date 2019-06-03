@@ -1,0 +1,33 @@
+Drill report for C:\Users\eav\OneDrive\Desenvolvimento\HW\projs\arduino-unoesc\sch\arduino-unoesc.kicad_pcb
+Created on 02/06/2019 19:33:19
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'arduino-unoesc-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.50mm  0.020"  (40 holes)
+    T2  0.51mm  0.020"  (3 holes)
+    T3  0.51mm  0.020"  (2 holes)
+    T4  0.60mm  0.024"  (10 holes)
+    T5  0.80mm  0.031"  (84 holes)
+    T6  0.90mm  0.035"  (6 holes)
+    T7  1.00mm  0.039"  (6 holes)  (with 3 slots)
+    T8  1.02mm  0.040"  (6 holes)
+    T9  1.10mm  0.043"  (10 holes)
+    T10  1.20mm  0.047"  (20 holes)
+    T11  1.52mm  0.060"  (6 holes)
+    T12  3.20mm  0.126"  (5 holes)
+
+    Total plated holes count 198
+
+
+Drill file 'arduino-unoesc-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
